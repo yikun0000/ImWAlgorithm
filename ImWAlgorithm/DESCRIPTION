@@ -1,0 +1,15 @@
+Package: ImWAlgorithm
+Type: Package
+Title: Improved Watershed Algorithm
+Version: 1.0
+Date: 2024-01-14
+Author: YiKun SongHaotian
+Maintainer: Who to complain to <yikun@ruc.edu.cn>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+Imports: Rcpp (>= 1.0.12)
+LinkingTo: Rcpp, RcppArmadillo
+Depends: EBImage
+RoxygenNote: 7.3.0
+NeedsCompilation: yes
+Packaged: 2024-01-14 04:33:40 UTC; yikun
